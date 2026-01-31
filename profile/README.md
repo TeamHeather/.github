@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/cataclysm.jpg" width="20" height="20">
+<img src="assets/cataclysm.jpg" width="40" height="40">
 
-• Creators of [Cataclysm](https://x.com/cataclysm_smp) •
+<font size="5">• Creators of [Cataclysm](https://x.com/cataclysm_smp) •</font>
 
-Currently working on [Squid J Games](https://x.com/squid_j_games) and [Epiphany](https://x.com/epiphany_smp)
+<font size="4">Currently working on [Squid J Games](https://x.com/squid_j_games) and [Epiphany](https://x.com/epiphany_smp)</font>
 
 </div>
