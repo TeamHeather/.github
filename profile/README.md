@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cataclysm.png" width="20" height="20">
+<img src="assets/cataclysm.jpg" width="20" height="20">
 
 • Creators of [Cataclysm](https://x.com/cataclysm_smp) •
 
